@@ -244,6 +244,8 @@
 
 
       
+    <!--  QUEM SOMOS #1  -->
+
     <section class="section-content-block">
 
         <div class="container  wow fadeIn">
@@ -272,7 +274,7 @@
 
                         </p>
                         <div class="info-separotor">
-                            <img src="images/signature.png" alt="" />
+                           
                             <p><strong>Gleyson Macedo</strong> <br>Fundador, Fundação Macedo </p>
                         </div>
 
@@ -283,13 +285,34 @@
 
                 <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
 
-                    <img src="images/photo2.jpg" height="90%" width="80%" alt="" />
+                   
 
-                </div>
-
+           
 
 
             </div> <!--  fim .linha-->
+
+            <div class="video-container" onclick="playPause()">
+                <video controls style="width: 50%; height: 50%; border-radius: 8px;">
+                    <source src="videos/fundacaoMACEDO.mp4" type="video/mp4">
+                    Seu navegador não suporta o elemento de vídeo.
+                </video>
+            </div>
+        
+            <script>
+                // Função para reproduzir/pausar o vídeo ao clicar no contêiner
+                function playPause() {
+                    var video = document.querySelector('.video-container video');
+                    if (video.paused) {
+                        video.play();
+                    } else {
+                        video.pause();
+                    }
+                }
+            </script>
+
+</div>
+
 
             <div class="row no-gutter margin-top-30">
 
@@ -339,6 +362,8 @@
         </div> <!--  fim .recipiente  -->
 
     </section> <!-- fim .seção sobre nós -->
+
+    <hr />
 
 
         <!--  CONTADOR DE SEÇÃO #1  -->
@@ -545,135 +570,8 @@
     </section> <!--  fim .seção-nossa-equipe-->  
 
         
-        <!-- SEÇÃO CTA #1 -->
-
-        <section class="section-content-block section-cta">
-
-            <div class="container">
-
-                <div class="row">
-
-                    <div class="col-md-12 col-sm-12">
-
-                        <div class="cta-content wow pulse" data-wow-iteration="2" data-wow-duration="0.3s">
-                            <h4>Trabalho voluntário incrível </h4>
-                            <h2>Join with us to provide
-                                <br>
-                               food for African Hungry People
-                            </h2>
-                            <a class="btn btn-custom" href="">Join With Us</a>
-                        </div>  <!-- fim .conteúdo cta  --> 
-
-                    </div> <!-- fim .col-md-12 col-sm-12  --> 
-
-                </div> <!--  fim . linha --> 
-
-            </div> <!--  fim .recipiente  -->
-
-        </section> <!--  fim .seção-cta-->    
-        
-        <!--  CONTEÚDO DOS PATROCINADORES  -->
-        
-        <section class="section-content-block">
-
-            <div class="container">
-
-                <div class="row section-heading-wrapper">
-                    <div class="col-lg-12 col-md-12 col-sm-12 text-left no-padding">
-                        <h2>Nossos <span>patrocinadores</span></h2>   
-                        <h4>Human service organizations promote volunteerism and provide wide range of direct services in the communities.</h4>                            
-                    </div> <!-- fim .col-sm-12  --> 
-                </div>
-
-                <div class="row">
-
-                    <div class="logo-layout-2">
-
-                            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
-
-                                <div class="client-logo">
-
-                                    <img src="images/logo_1.png" alt="" />
-
-                                </div>
-
-                            </div>
-
-                            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
-
-                                <div class="client-logo">
-
-                                    <img src="images/logo_2.png" alt="" />
-
-                                </div>
-
-                            </div>
-
-                            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
-
-                                <div class="client-logo">
-
-                                    <img src="images/logo_3.png" alt="" />
-
-                                </div>
-
-                            </div>
-
-                            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
-
-                                <div class="client-logo">
-
-                                    <img src="images/logo_4.png" alt="" />
-
-                                </div>
-
-                            </div>
-
-                            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
-
-                                <div class="client-logo">
-
-                                    <img src="images/logo_5.png" alt="" />
-
-                                </div>
-
-                            </div>
-
-                            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
-
-                                <div class="client-logo">
-
-                                    <img src="images/logo_6.png" alt="" />
-
-                                </div>
-
-                            </div>
-
-                            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
-
-                                <div class="client-logo">
-
-                                    <img src="images/logo_7.png" alt="" />
-
-                                </div>
-
-                            </div>
-
-                            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
-
-                                <div class="client-logo">
-                                    <img src="images/logo_8.png" alt="" />
-                                </div>
-                            </div>
-
-                    </div> <!-- fim .logo-items  -->
-
-                </div> <!-- fim linhas -->
-
-            </div> <!-- fim .recipiente  -->
-
-        </section> <!--  fim .seção-cliente-logotipo -->
-        
+       
+       
         <!-- INICIAR RODAPÉ -->
 
         <footer>            
