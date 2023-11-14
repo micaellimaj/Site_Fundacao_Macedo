@@ -294,13 +294,34 @@
 
                 <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
 
-                    <img src="images/fotoFUNDACAO.jpeg" height="400px" width="900px" alt="Crianças na Fundação Macedo" />
+                   
 
-                </div>
-
+           
 
 
             </div> <!--  fim .linha-->
+
+            <div class="video-container" onclick="playPause()">
+                <video controls style="width: 50%; height: 50%; border-radius: 8px;">
+                    <source src="videos/fundacaoMACEDO.mp4" type="video/mp4">
+                    Seu navegador não suporta o elemento de vídeo.
+                </video>
+            </div>
+        
+            <script>
+                // Função para reproduzir/pausar o vídeo ao clicar no contêiner
+                function playPause() {
+                    var video = document.querySelector('.video-container video');
+                    if (video.paused) {
+                        video.play();
+                    } else {
+                        video.pause();
+                    }
+                }
+            </script>
+
+</div>
+
 
             <div class="row no-gutter margin-top-30">
 
@@ -853,6 +874,7 @@
 
         </div> <!-- fim .recipiente  -->
 
+        
     </section> <!--  fim .seção-nossa-equipe-->
 
     <!--  SEÇÃO CTA #2 -->
@@ -865,11 +887,11 @@
 
                 <div class="col-md-12 col-sm-12 text-center">
 
-                    <div class="cta-content-1 wow pulse" data-wow-iteration="2" data-wow-duration="0.3s">
+                    <div class="cta-content-1 wow pulse" 
 
                         <a class="banner-video-icon venobox vbox-item" data-vbtype="video" data-autoplay="true"
                             href="https://drive.google.com/drive/u/0/folders/1pBc5K7Zb3Av2hb8llb1rJIvjiWPwbT_L">
-                            <i class="fa fa-trophy"></i>
+                          
                         </a>
 
                         <h2>ICIA & Fundação Macedo </h2>
@@ -1009,7 +1031,7 @@
 
                         <figure class="gallery-img">
 
-                            <img src="images/TAA/foto1.jpg" height="300px" heigth="280px" alt="gallery image" />
+                            <img src="images/galeria/1.png"  alt="gallery image" />
 
                         </figure> <!-- fim .causa-img  -->
 
@@ -1019,11 +1041,11 @@
 
                 <div class="col-md-3 col-sm-6 col-xs-12 gallery-container  filter sprinkle">
 
-                    <a class="gallery-light-box xs-margin" data-gall="myGallery" href="images/gallery_2.jpg">
+                    <a class="gallery-light-box xs-margin" data-gall="myGallery" href="images/galeria/foto2.jpg">
 
                         <figure class="gallery-img">
 
-                            <img src="images/gallery_2.jpg" alt="gallery image" />
+                            <img src="images/galeria/2.png" alt="gallery image" />
 
                         </figure> <!-- fim .causa-img -->
 
@@ -1033,11 +1055,11 @@
 
                 <div class="col-md-3 col-sm-6 col-xs-12 gallery-container filter hdpe">
 
-                    <a class="gallery-light-box xs-margin" data-gall="myGallery" href="images/gallery_1.jpg">
+                    <a class="gallery-light-box xs-margin" data-gall="myGallery" href="images/galeria/foto3.jpg">
 
                         <figure class="gallery-img">
 
-                            <img src="images/gallery_3.jpg" alt="gallery image" />
+                            <img src="images/galeria/3.png" alt="gallery image" />
 
                         </figure> <!-- fim .causa-img  -->
 
@@ -1047,11 +1069,11 @@
 
                 <div class="col-md-3 col-sm-6 col-xs-12 gallery-container filter spray">
 
-                    <a class="gallery-light-box xs-margin" data-gall="myGallery" href="images/gallery_2.jpg">
+                    <a class="gallery-light-box xs-margin" data-gall="myGallery" href="images/galeria/foto4.jpg">
 
                         <figure class="gallery-img">
 
-                            <img src="images/gallery_4.jpg" alt="gallery image" />
+                            <img src="images/galeria/4.png" alt="gallery image" />
 
                         </figure> <!-- fim .causa-img  -->
 
@@ -1061,11 +1083,11 @@
 
                 <div class="col-md-3 col-sm-6 col-xs-12 gallery-container filter irrigation">
 
-                    <a class="gallery-light-box xs-margin" data-gall="myGallery" href="images/gallery_1.jpg">
+                    <a class="gallery-light-box xs-margin" data-gall="myGallery" href="images/galeria/foto5.jpg">
 
                         <figure class="gallery-img">
 
-                            <img src="images/gallery_5.jpg" alt="gallery image" />
+                            <img src="images/galeria/5.png" alt="gallery image" />
 
                         </figure> <!-- fim .causa-img  -->
 
@@ -1075,11 +1097,11 @@
 
                 <div class="col-md-3 col-sm-6 col-xs-12 gallery-container filter sprinkle">
 
-                    <a class="gallery-light-box xs-margin" data-gall="myGallery" href="images/gallery_2.jpg">
+                    <a class="gallery-light-box xs-margin" data-gall="myGallery" href="images/galeria/foto6.jpg">
 
                         <figure class="gallery-img">
 
-                            <img src="images/gallery_6.jpg" alt="gallery image" />
+                            <img src="images/galeria/6.png" alt="gallery image" />
 
                         </figure> <!-- fim .causa-img  -->
 
@@ -1089,11 +1111,11 @@
 
                 <div class="col-md-3 col-sm-6 col-xs-12 gallery-container filter hdpe">
 
-                    <a class="gallery-light-box xs-margin" data-gall="myGallery" href="images/gallery_1.jpg">
+                    <a class="gallery-light-box xs-margin" data-gall="myGallery" href="images/galeria/foto7.jpg">
 
                         <figure class="gallery-img">
 
-                            <img src="images/gallery_8.jpg" alt="gallery image" />
+                            <img src="images/galeria/7.png" alt="gallery image" />
 
                         </figure> <!-- fim .causa-img  -->
 
@@ -1103,11 +1125,11 @@
 
                 <div class="col-md-3 col-sm-6 col-xs-12 gallery-container filter irrigation">
 
-                    <a class="gallery-light-box xs-margin" data-gall="myGallery" href="images/gallery_2.jpg">
+                    <a class="gallery-light-box xs-margin" data-gall="myGallery" href="images/galeria/foto8.jpg">
 
                         <figure class="gallery-img">
 
-                            <img src="images/gallery_7.jpg" alt="gallery image" />
+                            <img src="images/galeria/8.png" alt="gallery image" />
 
                         </figure> <!-- fim .causa-img  -->
 
