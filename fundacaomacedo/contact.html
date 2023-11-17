@@ -258,31 +258,32 @@
                             <h2 class="contact-title">Fale conosco</h2>
                             <p>Buscamos impactar positivamente no ciclo de uma sociedade que se renova dia a dia, transformando nossa casa, nossa rua, nosso bairro, nossa cidade e quem sabe transformar o mundo de alguém, junte-se a nos nessa jornada e transforme vidas. </p>
 
-                            <form role="form" action="contact.php" method="get" id="contact-form">
+                            <form role="form" action="contact.php" method="post" id="contact-form">
 
                                 <div class="form-group">
                                     <input type="text" class="form-control" id="user_name" name="user_name" placeholder="Nome" data-msg="Please Write Your Name" />
                                 </div>
- 
+                            
+                               
+                            
                                 <div class="form-group">
-                                    <input type="email" class="form-control" id="user_email" name="user_email" placeholder="Email" data-msg="Please Write Your Valid Email" />
-                                
+                                    <input type="tel" class="form-control" id="user_phone" name="user_phone" placeholder="Phone Number" data-msg="Please enter a valid phone number" />
                                 </div>
-                                
+                            
                                 <div class="form-group">
-                                    <input type="text" class="form-control" id="email_subject" name="email_subject" placeholder="Assunto" data-msg="Please Write Your Message Subject" />
+                                    <input type="date" class="form-control" id="user_birthdate" name="user_birthdate" placeholder="Date of Birth" data-msg="Please enter a valid date of birth" />
                                 </div>
-
+                            
                                 <div class="form-group">
-                                    <textarea class="form-control" rows="5" name="email_message" id="email_message" placeholder="Mensagem" data-msg="Please Write Your Message" ></textarea>
+                                    <input type="text" class="form-control" id="user_city" name="user_city" placeholder="City" data-msg="Please enter your city" />
                                 </div>
-
+                            
                                 <div class="form-group">
                                     <button type="submit" class="btn btn-custom">Envie agora</button>
                                 </div>
-
+                            
                             </form>
-
+                            
                         </div> <!-- Fim .Bloco de formulário de contato  -->
 
                     </div> <!--  Fim col-sm-6  -->
