@@ -4508,10 +4508,11 @@ ul.pagination li:last-child {
   background-attachment: inherit;
   background-position: center center;
   background-color: transparent;
-  background-image: url("../images/header-bg.jpg");
+  background-image: url("../images/esporte1.jpeg");
   background-repeat: no-repeat;
   background-size: cover;
   border: 0px solid #fff;
+  
 }
 
 .page-header:before {
@@ -4523,6 +4524,7 @@ ul.pagination li:last-child {
   left: 0;
   content: "";
   z-index: -1;
+  
 }
 
 .page-header h3 {
