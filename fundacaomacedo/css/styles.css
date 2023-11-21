@@ -210,7 +210,32 @@ td {
 textarea {
   overflow: auto;
 }
+.team-layout-1 {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
 
+.team-member {
+  display: flex;
+  margin: 0; /* Remover margens */
+}
+
+.team-info {
+  flex: 1;
+  text-align: center;
+  padding: 10px;
+  background-color: #f8f8f8;
+  margin: 50; /* Remover margens */
+}
+
+.team-info h3 {
+  margin-bottom: 10px;
+}
+
+.team-info p {
+  margin: ;
+}
 /* www.sitepoint.com/blogs/2010/08/20/ie-remove-textarea-scrollbars/ */
 /* Align checkboxes, radios, text inputs with their label by: Thierry Koblentz tjkdesign.com/ez-css/css/base.css ; */
 input[type="radio"] {
@@ -985,7 +1010,7 @@ span.label {
   color: #F56527;
   line-height: 32px;
   padding: 5px 20px;
-  text-transform: uppercase;
+  text-transform: arial;
   font-weight: 600;
   text-align: left;
   letter-spacing: 0.03em;
@@ -1045,6 +1070,8 @@ span.label {
   -moz-background-clip: padding;
   background-clip: padding-box;
 }
+
+
 
 .btn-pure-dark-bg:hover {
   background: #1a1a1a;
@@ -2707,7 +2734,7 @@ header.one-page .navbar-nav>li>a span {
   color: #808080;
   text-transform: arial;
   font-size: 12px;
-  letter-spacing: 0.05em;
+  letter-spacing: 0.0em;
 }
 
 .team-layout-1 .team-info .team-social-share {
@@ -2728,10 +2755,10 @@ header.one-page .navbar-nav>li>a span {
   width: 32px;
   line-height: 32px;
   height: 32px;
-  font-size: 16px;
+  font-size: 18px;
   background: #F56527;
   text-align: center;
-  margin-right: 4px;
+  margin-right: 0px;
 }
 
 .team-layout-1 .team-info .team-social-share a i {
@@ -4520,7 +4547,7 @@ ul.pagination li:last-child {
   background-repeat: no-repeat;
   background-size: cover;
   border: 0px solid #fff;
-  
+
 }
 
 .page-header:before {
@@ -4532,7 +4559,7 @@ ul.pagination li:last-child {
   left: 0;
   content: "";
   z-index: -1;
-  
+
 }
 
 .page-header h3 {
