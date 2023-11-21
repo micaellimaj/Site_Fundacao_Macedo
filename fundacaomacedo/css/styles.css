@@ -2748,6 +2748,7 @@ header.one-page .navbar-nav>li>a span {
   background: #2c2c2c;
 }
 
+
 .team-layout-1:hover .team-member .team-social-share {
   bottom: 0;
 }
@@ -4563,6 +4564,43 @@ ul.pagination li:last-child {
   color: #F56527;
 }
 
+
+/********************
+REDES SOCIAIS
+/**********************/
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  background-color: #f2f2f2;
+  position: flex;
+  width: 100%;
+  top: 0;
+  z-index: 1000;
+}
+
+.redes-sociais {
+  display: flex;
+  align-items: center;
+}
+
+
+
+.redes-sociais a {
+  margin-right: 8px; /* Aumenta o espaçamento entre os ícones */
+  text-decoration: none;
+  color: #333; /* Cor do texto */
+  display: flex;
+  align-items: left;
+}
+
+.redes-sociais img {
+  width: 40px;
+  height: 40px;
+  margin-right: 10px;
+  cursor: pointer;
+}
 /***********************************************************************************************/
 /* 07. EVENTS/CAMPAIGN PAGE */
 /***********************************************************************************************/
