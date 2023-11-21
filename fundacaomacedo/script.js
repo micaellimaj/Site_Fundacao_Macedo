@@ -6,7 +6,7 @@ document.addEventListener("DOMContentLoaded", function() {
   
     function updateCarousel() {
       const translateValue = -currentIndex * 100 + "%";
-      carousel.style.transition = "transform 1.5s ease-in-out"; // Ajustado para 1,5 segundos
+      carousel.style.transition = "transform 3.5s ease-in-out"; // Ajustado para 3,5 segundos
       carousel.style.transform = "translateX(" + translateValue + ")";
     }
   
@@ -38,7 +38,7 @@ document.addEventListener("DOMContentLoaded", function() {
           updateCarousel();
           updateDots();
         }
-      }, 3000);
+      }, 4500);
     }
   
     createDots();
