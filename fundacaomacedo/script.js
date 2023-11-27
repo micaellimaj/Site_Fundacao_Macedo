@@ -31,6 +31,8 @@ document.addEventListener("DOMContentLoaded", function() {
       });
     }
   
+
+
     function startCarousel() {
       setInterval(() => {
         if (!isTransitioning) {
