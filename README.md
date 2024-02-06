@@ -1,7 +1,7 @@
 # sitenovo-fundacaoMACEDO
  Projeto de DEVWEB
 
-Fundação Macedo - Leveza, Esperança e Transformação
+Fundação Macedo - Leveza, Esperança, Transformação
 
 
 
