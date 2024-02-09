@@ -39,7 +39,10 @@
 Introduzir Olívia no convívio humano não foi fácil, mas a Fundação Macedo dedicou mais de um ano ao seu treinamento. O resultado foi extraordinário. Olívia passou a visitar crianças em tratamento, enlutadas, com deficiência (PCD) e autistas, trazendo alegria e sorrisos brilhantes por onde passava.
 
 ✨ Além da Alegria - Intervenções Assistidas por Animais
-Acreditamos nas Intervenções Assistidas por Animais como uma forma de acalmar a vida de crianças que enfrentam doenças, traumas e desafios diversos. Essa abordagem não apenas proporciona momentos de felicidade, mas também contribui para o desenvolvimento social e emocional das crianças.
+Acreditamos nas Intervenções Assistidas por Animais como uma forma de acalmar a vida de crianças que enfrentam doenças, traumas e desafios diversos. Essa abordagem não apenas proporciona momentos de felicidade, mas também contribui para o desenvolvimento social e emocional das crianças. 
+
+✨ Integração Social - Esporte e Educação
+Na fundação temos Aulas de Música, teatro, Reforço Escolar e Literatura para os jovens, pois acreditamos que a educação é muito importante. A fundação oferece atividades esportivas como Jiu-jitsu, karatê, capoeira, Boxe, Muay thai e aulas de basquete. E também temos a turma de Jiu-jitsu com aulas exclusivas só para mulheres (autodefesa). Atividades como essas ajudam a melhorar a autoestima, a imagem corporal, a cognição e a função social dos jovens.
 
 ## Planos da Fundação:
 O Futuro da Fundação
@@ -75,6 +78,19 @@ O site da Fundação é composto por 11 páginas que contém todo o conteúdo de
 
 - 12ª Página (ERROR) - Página de "ERROR404", que apesar de não está visível, é um erro que aparece quando um usuário tenta acessar uma página que não existe no servidor de um site. Isso pode acontecer por diversos motivos.
 
+## Galeria:
+<div align="center">
+  <table>
+    <tr>
+      <td><b>Educação </b></td>
+      <td><b>Saúde</b></td>
+    </tr>
+    <tr>
+      <td>"<img src="fundacaomacedo/images/doacao.jpg" width="280px" height="200px"></td>
+        <td>"<img src="fundacaomacedo/images/aula1.jpg" width="280px" height="200px"></td>
+      </tr>
+  </table>
+</div>
 
 ## Organização do Repositório:
 ------------
