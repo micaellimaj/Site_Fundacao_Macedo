@@ -5,7 +5,7 @@
  <td><img src="site2.gif" width="400" style="display: block; margin: 0 auto;" alt="Macedo"> </td>
   </div>
 
-## Sobre o Fundação:
+## Sobre a Fundação:
 
 💪 O Início da Jornada
 - A Fundação Macedo, estabelecida por Gleyson Macedo em 2014/2015, é um projeto social dedicado a proporcionar esperança e inspiração para crianças que enfrentam situações desafiadoras. Nosso compromisso é criar momentos de alegria, superação e aprendizado por meio da interação entre pessoas e animais, com destaque para nossas majestosas araras.
@@ -45,8 +45,7 @@ Acreditamos nas Intervenções Assistidas por Animais como uma forma de acalmar 
 Na fundação temos Aulas de Música, teatro, Reforço Escolar e Literatura para os jovens, pois acreditamos que a educação é muito importante. A fundação oferece atividades esportivas como Jiu-jitsu, karatê, capoeira, Boxe, Muay thai e aulas de basquete. E também temos a turma de Jiu-jitsu com aulas exclusivas só para mulheres (autodefesa). Atividades como essas ajudam a melhorar a autoestima, a imagem corporal, a cognição e a função social dos jovens.
 
 ## Planos da Fundação:
-O Futuro da Fundação
-- A história da Fundação Macedo está em constante evolução. Nossos planos incluem expandir nossa iniciativa para o campo educacional, reconhecendo o impacto positivo da interação entre pessoas e animais. Novas araras, como Amora, estão a caminho, e outros animais, incluindo cães, em breve se juntarão à Família Fundação Macedo.
+A história da Fundação Macedo está em constante evolução. Nossos planos incluem expandir nossa iniciativa para o campo educacional, reconhecendo o impacto positivo da interação entre pessoas e animais. Novas araras, como Amora, estão a caminho, e outros animais, incluindo cães, em breve se juntarão à Família Fundação Macedo.
 
 ## Conhecendo o Site:
 
@@ -82,14 +81,14 @@ O site da Fundação é composto por 11 páginas que contém todo o conteúdo de
 <div align="center">
   <table>
     <tr>
-      <td><b>Educaçã </b></td>
+      <td><b>Educação </b></td>
       <td><b>Esporte</b></td>
-      <td><b>Saúde </b></td>
+      <td><b>Saúde</b></td>
     </tr>
     <tr>
       <td>"<img src="fundacaomacedo/images/aula2.png" width="280px" height="200px"></td>
       <td>"<img src="fundacaomacedo/images/esporte1.jpeg" width="280px" height="200px"></td>
-      <td>"<img src="fundacaomacedo/images/taa.jpeg" width="280px" height="200px"></td>
+      <td>"<img src="fundacaomacedo/images/taa.jpg" width="280px" height="200px"></td>
       </tr>
   </table>
 </div>
