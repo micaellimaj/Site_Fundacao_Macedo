@@ -83,11 +83,11 @@ O site da Fundação é composto por 11 páginas que contém todo o conteúdo de
   <table>
     <tr>
       <td><b>Educação </b></td>
-      <td><b>Saúde</b></td>
+      <td><b>Esporte</b></td>
     </tr>
     <tr>
-      <td>"<img src="fundacaomacedo/images/doacao.jpg" width="280px" height="200px"></td>
-        <td>"<img src="fundacaomacedo/images/aula1.jpg" width="280px" height="200px"></td>
+      <td>"<img src="fundacaomacedo/images/aula2.png" width="280px" height="200px"></td>
+        <td>"<img src="fundacaomacedo/images/esporte1.png" width="280px" height="200px"></td>
       </tr>
   </table>
 </div>
