@@ -89,12 +89,14 @@ O site da Fundação é composto por 11 páginas que contém todo o conteúdo de
     ├── generosity               <- Alguns documentos do site
     │
     ├── .vscode                  <- extensão json
-    │
-    ├── documentation.html       <- Algumas documentações do site.
-    │
-    └── fundacaomacedo           <- Contém todo o conteúdo do site.
-    ├── dataset.HR.original 
-    │
+    │    
+    ├── fundacaomacedo           <- Contém todo o conteúdo do site e páginas.
+    │   └── css                  <- Contém o conteúdo visual das páginas.
+    │   └── fonts                <- Contém o conteúdo das fontes das páginas.
+    │   └── images               <- Contém o conteúdo das imagens das páginas.
+    │   └── js                   <- Contém o conteúdo do javasctipt, responsável pela interatividade das páginas.
+    │   └── videos               <- Contém o conteúdo do videos das páginas.
+    │   
     ├── documentation.html       <- Algumas documentações do site.
 
 ## Faça Parte da Fundação:
