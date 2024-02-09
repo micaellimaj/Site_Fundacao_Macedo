@@ -1,8 +1,8 @@
 # Projeto Front-End Desenvolvido para a Fundação Macedo
-Fundação Macedo - Leveza, Esperança, Transformação
 
 <div align="center">
- <td><img src="site.gif" width="600" style="display: block; margin: 0 auto;" alt="B99"> </td>
+  <b>"FUNDAÇÃO MACEDO - LEVEZA, ESPERANÇA E TRANSFORMAÇÃO!"</b> <br>
+ <td><img src="site2.gif" width="400" style="display: block; margin: 0 auto;" alt="Macedo"> </td>
   </div>
 
 ## Sobre o Fundação:
@@ -43,15 +43,30 @@ Acreditamos nas Intervenções Assistidas por Animais como uma forma de acalmar 
 
 ## Planos da Fundação:
 O Futuro da Fundação
-A história da Fundação Macedo está em constante evolução. Nossos planos incluem expandir nossa iniciativa para o campo educacional, reconhecendo o impacto positivo da interação entre pessoas e animais. Novas araras, como Amora, estão a caminho, e outros animais, incluindo cães, em breve se juntarão à Família Fundação Macedo.
+- A história da Fundação Macedo está em constante evolução. Nossos planos incluem expandir nossa iniciativa para o campo educacional, reconhecendo o impacto positivo da interação entre pessoas e animais. Novas araras, como Amora, estão a caminho, e outros animais, incluindo cães, em breve se juntarão à Família Fundação Macedo.
+
+## Conhecendo o Site:
+
+O site da Fundação é composto por 11 páginas que contém todo o contéudo de uma maneira compreensível , organizada e visualmente atraente para que os usuários possam navegar livremente e com facilidade pelas páginas e conhecer o tabralho incrível da Fundação. A fundação anda buscando inspirar e capacitar, promovendo valores e preparando jovens para um futuro promissor e para continuar fazendo isso, eles precisam de ajuda financeira e de voluntários e com o lançamento do site, mais pessoas ficaram sabendo da causa da Fundação e terão a oportunidade de contribuir com eles.
+
+- 1ª Página (INÍCIO) - Página "INÍCIO" do site, que traz uma visão inicial sobre o que é a Fundação, incluindo as principais causas, sua missão, seus projetos, voluntários, feedbacks, galeria de fotos, apoiadores, entre outros.
+- 2ª Página (QUEM SOMOS - História) - Página que está dentro da categoria de "QUEM SOMOS" , responsável por contar mais sobre a Fundação, essa página como o próprio nome diz, conta a próprio história , como o início desse belo projeto e os pontos altos e baixos dessa trajetória.
+- 3ª Página (QUEM SOMOS - Voluntários) - Página que está dentro da categoria de "QUEM SOMOS" , responsável por contar mais sobre a Fundação, nessa página podemos conhecer as pessoas que tornaram esse projeto possível com a divulgação dos voluntários e as lindas mensagens dos doadores.
+- 4ª Página (QUEM SOMOS - Fundador) -  Página que está dentro da categoria de "QUEM SOMOS" , responsável por contar mais sobre a Fundação, essa página está focada em contar a história do Fundador Gleyson Macedo, contendo suas origens, valores, cidadania, formação, educação, paixões , construção da Fundação e sua visão para o futuro.
+- 5ª Página (PROJETOS - Todos os projetos) - Página que está dentro da categoria "PROJETOS" , responsável por mostrar os projetos da Fundações, essa página contém uma descrição dos projetos futuros com a data de previsão.
+- 6ª Página (MAIS - Causas(Todas as causas)) - Página que está dentro da categoria "MAIS" e dentro da subcategoria causas, que contém uma descrição das causas da Fundação, incluindo educação, saúde e esporte.
+- 7ª Página (MAIS - Causas(Causa Única)) - Página que está dentro da categoria "MAIS" e dentro da subcategoria "Causas", que contém uma descrição da principal causa da Fundação, que é arrecadar fundos para conseguir manter suas atividades e faz um apelo para mais doações, além de conter comentários sobre os impactos positivos dessa causa.
+- 8ª Página (MAIS - Perguntas Fequentes) - Página está dentro da categoria "MAIS" e contém as principais dúvidas sobre a Fundação, como o seu funcionamento e voluntariado.
+- 9ª Página (MAIS - Doação) - Página está dentro da categoria "MAIS" e contém um link que vai até o site de arrecadação de fundos criado pela própria Fundação Macedo.
+- 10ª Página (MAIS - Galeria de Fotos) - Página está dentro da categoria "MAIS" e contém capturas dos melhores momentos da Fundação, separados por três categorias: Esportes, educação e visitação.
+- 11ª Página (CONTATOS) - Página de "CONTATOS" com a Fundação, que contém informações como endereço e formas de entrar em contato, além de um formulário de inscrição.
+- 12ª Página (ERROR) - Página de "ERROR404", que apesar de não está visível, é um erro que aparece quando um usuário tenta acessar uma página que não existe no servidor de um site. Isso pode acontecer por diversos motivos.
 
 ## Faça Parte da Fundação:
 
-Junte-se a Nós Nesta Jornada de Leveza, Esperança e Transformação!
-Para saber mais e apoiar nossa causa, visite nosso site. 
-Siga-nos nas redes sociais: Instagram, Facebook, LinkedIn.
+- Junte-se a Nós Nesta Jornada de Leveza, Esperança e Transformação!
+- Para saber mais e apoiar nossa causa, visite nosso [site](https://fundacaomacedo.netlify.app). 
+- Siga-nos nas redes sociais: [intagram](https://www.instagram.com/fundacao_macedo/) e [Facebook](https://www.facebook.com/FUNDACAOMACEDO).
+- Fale com a gente: [WhatApp](https://wa.me/5581992082735?text=Gleyson+Macedo) e [gmail](mailto:fundacaomacedope@gmail.com).
 
-Facebook: https://www.facebook.com/FUNDACAOMACEDO
-Instagram: https://www.instagram.com/fundacao_macedo/
-WhatsApp: https://wa.me/5581992082735?text=Gleyson+Macedo
 
