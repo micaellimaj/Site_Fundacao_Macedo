@@ -75,6 +75,28 @@ O site da Fundação é composto por 11 páginas que contém todo o conteúdo de
 
 - 12ª Página (ERROR) - Página de "ERROR404", que apesar de não está visível, é um erro que aparece quando um usuário tenta acessar uma página que não existe no servidor de um site. Isso pode acontecer por diversos motivos.
 
+
+## Organização do Repositório:
+------------
+
+
+    ├── LICENSE
+    │
+    ├── README.md                <- O Readme de nível superior para desenvolvedores que usam esse projeto
+    │
+    ├── site2.gif                <- Arquitetura do projeto que mostrar a visualização do site no formato de gif.
+    │
+    ├── generosity               <- Alguns documentos do site
+    │
+    ├── .vscode                  <- extensão json
+    │
+    ├── documentation.html       <- Algumas documentações do site.
+    │
+    └── fundacaomacedo           <- Contém todo o conteúdo do site.
+    ├── dataset.HR.original 
+    │
+    ├── documentation.html       <- Algumas documentações do site.
+
 ## Faça Parte da Fundação:
 
 - Junte-se a Nós Nesta Jornada de Leveza, Esperança e Transformação!
