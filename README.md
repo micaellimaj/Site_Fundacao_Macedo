@@ -1,9 +1,9 @@
 # Projeto Front-End Desenvolvido para a Fundação Macedo
-
-
 Fundação Macedo - Leveza, Esperança, Transformação
 
-
+<div align="center">
+ <td><img src="site.gif" width="600" style="display: block; margin: 0 auto;" alt="B99"> </td>
+  </div>
 
 ## Sobre o Fundação:
 
